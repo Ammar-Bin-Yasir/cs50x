@@ -1,0 +1,12 @@
+#welcome
+{
+    text-align: center;
+    font-size: 70px;
+    font-family:  Courier;
+}
+body {
+    background-image: url('/workspaces/173178291/homepage/pexels-iriser-1366957.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
